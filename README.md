@@ -1,3 +1,1 @@
-# Vetores
-# arrays
 # arrays
